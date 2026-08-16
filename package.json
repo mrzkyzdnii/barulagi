@@ -1,0 +1,13 @@
+{
+  "name": "anoboy-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scraper anoboy.xyz — ambil link, judul, deskripsi, image dari hasil pencarian",
+  "scripts": {
+    "start": "node anoboy.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
